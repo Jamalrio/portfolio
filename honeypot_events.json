@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-10-05 12:46:00",
+    "username": "testuser",
+    "ip": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "status": "Failed Login (Honeypot Triggered)",
+    "password_stored": false
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-10-05 12:46:52",
+    "username": "jamalriojamalrio@gmail.com",
+    "ip": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "status": "Failed Login (Honeypot Triggered)",
+    "password_stored": false
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-10-05 12:47:22",
+    "username": "jamalriojamalrio@gmail.com",
+    "ip": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "status": "Failed Login (Honeypot Triggered)",
+    "password_stored": false
+  }
+]
